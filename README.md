@@ -1,6 +1,8 @@
 # Amazon_Vine_Analysis
 
-## Overview of the analysis: Using AWS, SQL, pgAdmin, Colaboratory, Python, and Spark to harness the power of client reviews for marketing data usage.  Are the reviews positive?  Are they negative?  Is there a coorelation between those getting paid and the reviews they leave on products?  With tens of thousands of reviews, on hundreds of thousands of products using ETL and some database 'magic' I can present to the clients what type of data and then analyze it.
+## Overview of the analysis: 
+
+Using AWS, SQL, pgAdmin, Colaboratory, Python, and Spark to harness the power of client reviews for marketing data usage.  Are the reviews positive?  Are they negative?  Is there a coorelation between those getting paid and the reviews they leave on products?  With tens of thousands of reviews, on hundreds of thousands of products using ETL and some database 'magic' I can present to the clients what type of data and then analyze it.
 
 ## Results
 
